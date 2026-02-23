@@ -2,6 +2,9 @@
 ## Sleep Apnea AHI Estimator  
 **YŪGŌ Hackathon 2026 – Pack A Submission**  
 Team: PulseForge  
+Team Members:
+Sree Krishna S
+Sujith M
 Institution: SSN College of Engineering  
 
 ---
@@ -273,3 +276,4 @@ Sree Krishna S
 
 SSN College of Engineering  
 YŪGŌ Hackathon 2026
+
