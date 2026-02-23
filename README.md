@@ -33,10 +33,15 @@ Our pipeline integrates physiological feature engineering, ensemble learning, st
 
 yugo-submission-sujith0613/
 │
-├── Apnea.ipynb              # Training notebook (reference)
-├── pulseforge_model.pkl     # Pre-trained LightGBM model
-├── streamlit_app.py         # Inference dashboard
-├── requirements.txt         # Dependencies
+├── Dashboard/
+│   ├── pulseforge_model.pkl
+│   └── streamlit_dashboard.py
+│
+├── outputs/
+├── Apnea.ipynb
+├── DISCLAIMER.md
+├── README.md
+├── requirements.txt
 └── .gitignore
 ````
 
@@ -282,6 +287,7 @@ Sree Krishna S
 
 SSN College of Engineering  
 YŪGŌ Hackathon 2026
+
 
 
 
